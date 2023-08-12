@@ -1,0 +1,5 @@
+Oyunu 1920px 1080px olarak tasarladım responsive olarak çalışmıyor 
+En iyi deneyim deneyim için Game windowundan Full HD(1920x1080) seçeneğini seçin. 
+
+Oyunu editörden oynamak için Build Settings>Scenes in Build eklemeyi unutmayın.
+
